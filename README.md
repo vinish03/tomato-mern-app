@@ -5,7 +5,7 @@
 A full-stack food delivery web application built using the MERN stack.
 
 ## 🔗 Links
-- 🌐 Live Demo: Coming Soon
+- 🌐 Live Demo: https://tomato-mern-app.vercel.app
 - 💻 GitHub: https://github.com/vinish03/tomato-mern-app
 
 <img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/29fabe8b-26d4-4a3d-a5dc-2fbe8515f0ae" />
