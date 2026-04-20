@@ -8,7 +8,8 @@ A full-stack food delivery web application built using the MERN stack.
 - 🌐 Live Demo: Coming Soon
 - 💻 GitHub: https://github.com/vinish03/tomato-mern-app
 
-![App Screenshot](add-your-screenshot-here)
+<img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/29fabe8b-26d4-4a3d-a5dc-2fbe8515f0ae" />
+
 
 ## 🚀 Features
 - User authentication (Login / Register)
