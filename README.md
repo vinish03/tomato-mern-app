@@ -1,13 +1,20 @@
-#  Tomato - MERN Food Delivery App
+# 🍅 Tomato - MERN Food Delivery App
+
+🚀 Built with MERN Stack | Full Stack Project  
 
 A full-stack food delivery web application built using the MERN stack.
+
+## 🔗 Links
+- 🌐 Live Demo: Coming Soon
+- 💻 GitHub: https://github.com/vinish03/tomato-mern-app
+
+![App Screenshot](add-your-screenshot-here)
 
 ## 🚀 Features
 - User authentication (Login / Register)
 - Add to cart functionality
 - Order management
 - Dynamic food listing
-- Admin panel (if added)
 - Stripe payment integration
 
 ## 🛠️ Tech Stack
